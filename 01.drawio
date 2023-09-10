@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T04:40:50.539Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RLlVGNyiNQ6iEgxv89wZ" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T04:42:04.257Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AaAV-w7XXIiLnZGqLqNs" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="1065" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3447" dy="2900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
           <mxGeometry x="20" y="20" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-72" value="Industrial Sector" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="575" y="677" width="210" height="70" as="geometry" />
+          <mxGeometry x="505" y="1547" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-73" value="" style="triangle;html=1;whiteSpace=wrap;rotation=-180;" parent="vh4l8K26gaCXzMAg0qhR-72" vertex="1">
           <mxGeometry x="170" y="20" width="20" height="30" as="geometry" />
@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-91" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="390" y="1216" width="100" height="103" as="geometry" />
+          <mxGeometry x="320" y="2086" width="100" height="103" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-92" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="vh4l8K26gaCXzMAg0qhR-91" vertex="1">
           <mxGeometry width="100" height="103" as="geometry" />
@@ -382,7 +382,7 @@
           <mxGeometry x="35" y="3" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-97" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="390" y="1031" width="100" height="103" as="geometry" />
+          <mxGeometry x="320" y="1901" width="100" height="103" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-98" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="vh4l8K26gaCXzMAg0qhR-97" vertex="1">
           <mxGeometry width="100" height="103" as="geometry" />
@@ -391,7 +391,7 @@
           <mxGeometry x="35" y="3" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-100" value="" style="group;rotation=90;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="405" y="1173" width="70" height="10" as="geometry" />
+          <mxGeometry x="335" y="2043" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-101" value="" style="endArrow=classic;html=1;rounded=0;" parent="vh4l8K26gaCXzMAg0qhR-100" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -436,7 +436,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-110" value="Supplier Relationship Management (SRM) Portal" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="490" width="427.5" height="120" as="geometry" />
+          <mxGeometry x="1100" y="1360" width="427.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-111" value="" style="group;rotation=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1830" y="1294" width="70" height="10" as="geometry" />
@@ -469,7 +469,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-124" value="Purchase Order Technical Phase" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="410" y="820" width="340" height="160" as="geometry" />
+          <mxGeometry x="340" y="1690" width="340" height="160" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-125" value="PO issuance " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="vh4l8K26gaCXzMAg0qhR-124" vertex="1">
           <mxGeometry y="40" width="340" height="30" as="geometry" />
@@ -487,10 +487,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-132" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="530" y="1051" width="20" height="260" as="geometry" />
+          <mxGeometry x="460" y="1921" width="20" height="260" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-134" value="Indent List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="579" y="1105" width="140" height="180" as="geometry" />
+          <mxGeometry x="509" y="1975" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-135" value="Indent 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="vh4l8K26gaCXzMAg0qhR-134" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -508,13 +508,13 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-145" value="SRM Portal" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="1278.75" y="677" width="210" height="70" as="geometry" />
+          <mxGeometry x="1208.75" y="1547" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-146" value="" style="triangle;html=1;whiteSpace=wrap;rotation=90;" parent="vh4l8K26gaCXzMAg0qhR-145" vertex="1">
           <mxGeometry x="23" y="20" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6I2EwaOY1wd-wpL0W01F-1" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1314" y="800" width="140" height="120" as="geometry" />
+          <mxGeometry x="1244" y="1670" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6I2EwaOY1wd-wpL0W01F-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -545,7 +545,7 @@
             <mxPoint x="830" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="53" />
-              <mxPoint x="780" y="480" />
+              <mxPoint x="780" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -556,13 +556,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6I2EwaOY1wd-wpL0W01F-15" value="Prolonged, time consuming, not efficient correspondence with technical side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="420" width="140" height="120" as="geometry" />
+          <mxGeometry x="580" y="420" width="140" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="6I2EwaOY1wd-wpL0W01F-16" value="Both sides are confused most of the time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-16" value="Both sides are confused most of the time" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6I2EwaOY1wd-wpL0W01F-20" value="If they could provide more info, why they didn&#39;t at the issuance of PO?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
-          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-20" value="If they could provide more info, why they didn&#39;t at the issuance of PO?" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
+          <mxGeometry y="90" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
