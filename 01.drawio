@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T04:22:52.927Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WmSGSuVf9svBNmRVaeUG" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T04:26:36.941Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YDQ1aPLyn1qQxtwU3Ljp" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="2785" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -511,6 +511,24 @@
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-146" value="" style="triangle;html=1;whiteSpace=wrap;rotation=90;" parent="vh4l8K26gaCXzMAg0qhR-145" vertex="1">
           <mxGeometry x="23" y="20" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-1" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1314" y="800" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-5" value="Purchase Expert&lt;br&gt;can&#39;t track the&lt;br&gt;PO status" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-6" value="Supplier doesn&#39;t&lt;br&gt;know if the PO is&lt;br&gt;Still open or not?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-160" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
