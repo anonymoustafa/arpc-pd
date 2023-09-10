@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T04:38:02.174Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MVgk2CuoPeHG19lzM1ZC" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T04:40:50.539Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RLlVGNyiNQ6iEgxv89wZ" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="1734" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1065" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,7 +545,7 @@
             <mxPoint x="830" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="53" />
-              <mxPoint x="780" y="465" />
+              <mxPoint x="780" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -556,10 +556,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6I2EwaOY1wd-wpL0W01F-15" value="Prolonged, time consuming, not efficient correspondence with technical side" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="420" width="140" height="90" as="geometry" />
+          <mxGeometry x="580" y="420" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="6I2EwaOY1wd-wpL0W01F-16" value="Reminder 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-16" value="Both sides are confused most of the time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-20" value="If they could provide more info, why they didn&#39;t at the issuance of PO?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6I2EwaOY1wd-wpL0W01F-15">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
