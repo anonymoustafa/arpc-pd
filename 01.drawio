@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-11T04:23:00.065Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="43MdEhv_3fnuVihw6EpV" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-11T04:23:45.094Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GTAHBw1rUlSvNJwybYj8" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1876" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-72" value="Industrial Sector" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" parent="1" vertex="1">
-          <mxGeometry x="505" y="1547" width="210" height="70" as="geometry" />
+          <mxGeometry x="395" y="1567" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-73" value="" style="triangle;html=1;whiteSpace=wrap;rotation=-180;" parent="vh4l8K26gaCXzMAg0qhR-72" vertex="1">
           <mxGeometry x="170" y="20" width="20" height="30" as="geometry" />
@@ -472,7 +472,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-124" value="Purchase Order Technical Phase" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="390" y="1690" width="340" height="190" as="geometry" />
+          <mxGeometry x="330" y="1680" width="340" height="190" as="geometry" />
         </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-125" value="PO issuance " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="vh4l8K26gaCXzMAg0qhR-124" vertex="1">
           <mxGeometry y="40" width="340" height="30" as="geometry" />
