@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T10:05:44.432Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aPPae1NuHsV1rMLR4wnw" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T10:06:54.407Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UnQ2BbSs59jpEDQbTiwq" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1338" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -649,8 +649,8 @@
         <mxCell id="em5qXoiyjJYaxzW7Eebe-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;" parent="vh4l8K26gaCXzMAg0qhR-145" vertex="1">
           <mxGeometry x="11.25" y="9" width="65" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="22tc-IZOeCEdjyxs1V_F-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=2.5;dx=27.33;arrowHead=21.2;rotation=-45;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="940.63" y="1680" width="60" height="41.21" as="geometry" />
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=2.5;dx=27.33;arrowHead=23.83;rotation=120;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1930" width="60" height="41.21" as="geometry" />
         </mxCell>
         <mxCell id="22tc-IZOeCEdjyxs1V_F-8" value="Initial questions&lt;br&gt;and initial defects" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.reported_state;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1110" y="1790" width="60" height="63" as="geometry" />
