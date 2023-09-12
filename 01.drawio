@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T09:49:07.194Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6qbL90Q-GlFEE1_2HQ5e" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T09:50:56.403Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3BeanCtwp3CUFkLnopMP" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1338" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -666,6 +666,24 @@
         </mxCell>
         <mxCell id="22tc-IZOeCEdjyxs1V_F-15" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.servo;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="8ikLFIh58tmgPojaR6gJ-12">
           <mxGeometry x="233" y="220" width="84" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-19" value="" style="shape=mxgraph.bpmn.task;part=1;taskMarker=abstract;rectStyle=rounded;topLeftStyle=square;topRightStyle=square;verticalAlign=top;isLoopMultiParallel=1;fillColor=#C0C0C0;whiteSpace=wrap;html=1;" vertex="1" parent="8ikLFIh58tmgPojaR6gJ-12">
+          <mxGeometry x="55" y="241" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-20" value="" style="shape=message;fillColor=#C0C0C0;html=1;" vertex="1" parent="8ikLFIh58tmgPojaR6gJ-12">
+          <mxGeometry x="95" y="311" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;elbow=horizontal;endArrow=none;labelBackgroundColor=none;endSize=12;endFill=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=1;rounded=0;" edge="1" source="22tc-IZOeCEdjyxs1V_F-19" target="22tc-IZOeCEdjyxs1V_F-20" parent="8ikLFIh58tmgPojaR6gJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-16" value="" style="shape=mxgraph.bpmn.task;part=1;taskMarker=abstract;rectStyle=rounded;bottomRightStyle=square;bottomLeftStyle=square;fillColor=#C0C0C0;whiteSpace=wrap;html=1;" vertex="1" parent="8ikLFIh58tmgPojaR6gJ-12">
+          <mxGeometry x="140" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-17" value="" style="shape=message;fillColor=#C0C0C0;html=1;" vertex="1" parent="8ikLFIh58tmgPojaR6gJ-12">
+          <mxGeometry x="180" y="110" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22tc-IZOeCEdjyxs1V_F-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;elbow=horizontal;endArrow=none;labelBackgroundColor=none;endSize=12;endFill=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=0;rounded=0;" edge="1" source="22tc-IZOeCEdjyxs1V_F-16" target="22tc-IZOeCEdjyxs1V_F-17" parent="8ikLFIh58tmgPojaR6gJ-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="22tc-IZOeCEdjyxs1V_F-10" value="New suppliers would be added to the portal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="785" y="2220.75" width="60" height="30" as="geometry" />
