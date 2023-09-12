@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T10:06:54.407Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UnQ2BbSs59jpEDQbTiwq" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T10:10:53.867Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LNlUPviPtfOJt-C4Dfhk" version="21.7.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="1338" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="1242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -621,9 +621,6 @@
         </mxCell>
         <mxCell id="8ikLFIh58tmgPojaR6gJ-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=2.5;dx=27.33;arrowHead=25;rotation=-45;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="731.34" y="2140.81" width="155.43" height="132.75" as="geometry" />
-        </mxCell>
-        <mxCell id="8ikLFIh58tmgPojaR6gJ-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.lean_mapping.physical_pull;pointerEvents=1;rotation=-107;" parent="1" vertex="1">
-          <mxGeometry x="1300" y="2270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="22tc-IZOeCEdjyxs1V_F-10" value="New suppliers would be added to the portal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="785" y="2220.75" width="60" height="30" as="geometry" />
