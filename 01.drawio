@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T12:03:00.230Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1Tv1PPH2WuajQszqhnQ_" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T12:05:25.680Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5cDW0NEuu4js2JMJpsn1" version="21.7.5" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1837" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -783,7 +783,7 @@
           <mxGeometry x="1570" y="2081.39" width="110" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-63" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.tasks;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="1857" width="65" height="76" as="geometry" />
+          <mxGeometry x="1442.5" y="1824" width="65" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-64" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Storage_Tasks.svg;" vertex="1" parent="1">
           <mxGeometry x="1471.9" y="1670" width="88" height="88" as="geometry" />
@@ -794,11 +794,17 @@
         <mxCell id="ZFazObrZqCkxkG09ijkU-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFazObrZqCkxkG09ijkU-54" target="ZFazObrZqCkxkG09ijkU-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZFazObrZqCkxkG09ijkU-69" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1846" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-68" value="Automatic&lt;br&gt;Synchronization&amp;nbsp;" style="dashed=0;html=1;fillColor=default;strokeColor=none;align=center;rounded=0;arcSize=10;fontColor=default;fontStyle=1;fontSize=12;shadow=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1585" y="1959" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFazObrZqCkxkG09ijkU-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.077;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZFazObrZqCkxkG09ijkU-65" target="ZFazObrZqCkxkG09ijkU-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="1892" as="sourcePoint" />
+            <mxPoint x="1530" y="1892.45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFazObrZqCkxkG09ijkU-72" value="Winner&lt;br&gt;Announcement&amp;nbsp;" style="dashed=0;html=1;fillColor=default;strokeColor=none;align=center;rounded=0;arcSize=10;fontColor=default;fontStyle=1;fontSize=12;shadow=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="1920" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
