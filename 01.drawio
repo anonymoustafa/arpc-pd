@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T11:56:22.017Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M7r6aKe0zJcr7DMymMHB" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T11:59:13.788Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="t54ViLXNaqPi7d_ULwii" version="21.7.5" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1837" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="em5qXoiyjJYaxzW7Eebe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=1 2;strokeWidth=4;arcSize=5;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="756" y="1590" width="984" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFazObrZqCkxkG09ijkU-68" value="Automatic&lt;br&gt;Synchronization&amp;nbsp;" style="dashed=0;html=1;fillColor=#F0F2F5;strokeColor=none;align=center;rounded=1;arcSize=10;fontColor=#596780;fontStyle=1;fontSize=11;shadow=0" vertex="1" parent="1">
+          <mxGeometry x="1608" y="1914.5" width="120" height="65" as="geometry" />
+        </mxCell>
         <mxCell id="c8slE1L9noB9dwJdRd24-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="c8slE1L9noB9dwJdRd24-1" target="c8slE1L9noB9dwJdRd24-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -486,9 +492,6 @@
             <mxPoint x="817.5" y="1640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="em5qXoiyjJYaxzW7Eebe-9" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=1 2;strokeWidth=4;arcSize=5;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="756" y="1590" width="984" height="600" as="geometry" />
-        </mxCell>
         <mxCell id="vh4l8K26gaCXzMAg0qhR-145" value="SRM Web&amp;nbsp;Portal" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;align=center;fontStyle=1;fillColor=default;rounded=0;dashed=1;dashPattern=1 2;strokeWidth=4;arcSize=5;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="1023.75" y="1560" width="261.25" height="70" as="geometry" />
         </mxCell>
@@ -773,10 +776,13 @@
         <mxCell id="ZFazObrZqCkxkG09ijkU-57" value="Offer&amp;nbsp;í ½í²°" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZFazObrZqCkxkG09ijkU-52">
           <mxGeometry y="166" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZFazObrZqCkxkG09ijkU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.12;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZFazObrZqCkxkG09ijkU-60" target="ZFazObrZqCkxkG09ijkU-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-60" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#006EAF;fillColor=#1ba1e2;shape=mxgraph.azure.backup_service;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1580" y="2000.6000000000001" width="90" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="ZFazObrZqCkxkG09ijkU-62" value="Offers Openning&lt;br&gt;Secretly, Safely&lt;br&gt;Clear and Automatically" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZFazObrZqCkxkG09ijkU-62" value="Offers Openning&lt;br&gt;Secretly, Safely&lt;br&gt;Clear and Automatically" style="text;html=1;strokeColor=none;fillColor=#F0F2F5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=11;fontColor=#596780;dashed=0;arcSize=10;fontStyle=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1570" y="2081.39" width="110" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-63" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.tasks;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
