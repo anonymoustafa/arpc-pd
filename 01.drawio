@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T11:55:19.826Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oPmotQYRDwqDudT1t5TH" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T11:56:22.017Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M7r6aKe0zJcr7DMymMHB" version="21.7.5" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="1517" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1837" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -774,19 +774,10 @@
           <mxGeometry y="166" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-60" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#006EAF;fillColor=#1ba1e2;shape=mxgraph.azure.backup_service;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="2040" width="90" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="ZFazObrZqCkxkG09ijkU-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZFazObrZqCkxkG09ijkU-54" target="ZFazObrZqCkxkG09ijkU-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1538" y="2075" />
-              <mxPoint x="1538" y="2160" />
-              <mxPoint x="1605" y="2160" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1580" y="2000.6000000000001" width="90" height="76" as="geometry" />
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-62" value="Offers Openning&lt;br&gt;Secretly, Safely&lt;br&gt;Clear and Automatically" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="2112" width="110" height="58" as="geometry" />
+          <mxGeometry x="1570" y="2081.39" width="110" height="58" as="geometry" />
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-63" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.tasks;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1860" width="71.8" height="80" as="geometry" />
@@ -796,6 +787,9 @@
         </mxCell>
         <mxCell id="ZFazObrZqCkxkG09ijkU-65" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.tasks;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1570" y="1860" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFazObrZqCkxkG09ijkU-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZFazObrZqCkxkG09ijkU-54" target="ZFazObrZqCkxkG09ijkU-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
