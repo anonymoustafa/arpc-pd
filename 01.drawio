@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T11:15:58.360Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="AX2a0I-DACl-awIsWWem" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T11:18:25.413Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bcvQyK1mQ72Jg8y5vOX5" version="21.8.2" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1800" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
         <mxCell id="0r7z-0_3qB-ygy4cehF7-14" value="í ¼í¸µ Understanding our current limits" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="0r7z-0_3qB-ygy4cehF7-12">
           <mxGeometry y="100" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="0r7z-0_3qB-ygy4cehF7-15" value="í ½í²¯ Introducing personal and organizational goals&amp;nbsp;" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0r7z-0_3qB-ygy4cehF7-12">
+        <mxCell id="0r7z-0_3qB-ygy4cehF7-15" value="í ½í²¾ codification our procedure" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0r7z-0_3qB-ygy4cehF7-12">
           <mxGeometry y="155" width="150" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0r7z-0_3qB-ygy4cehF7-25" value="í ½í³‡ Introducing new indexes&amp;nbsp;" style="text;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
