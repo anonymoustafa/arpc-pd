@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T12:46:40.970Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="53wCm6-74ddhuQp1H16k" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T12:47:03.584Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="pyaGdEABqKmgsqVKiFj1" version="22.0.2" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="1648" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -378,10 +378,10 @@
         <mxCell id="vh4l8K26gaCXzMAg0qhR-141" value="Traditional Indent N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="vh4l8K26gaCXzMAg0qhR-134" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6I2EwaOY1wd-wpL0W01F-5" value="Purchase Expert&lt;br&gt;can&#39;t track the&lt;br&gt;PO status" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-5" value="Purchase Expert&lt;br&gt;can&#39;t track the&lt;br&gt;offers status" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-110" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6I2EwaOY1wd-wpL0W01F-6" value="Supplier doesn&#39;t&lt;br&gt;know if the PO is&lt;br&gt;Still open or not?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6I2EwaOY1wd-wpL0W01F-6" value="Supplier doesn&#39;t&lt;br&gt;know if the indent is&lt;br&gt;Still open or not?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="-190" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6I2EwaOY1wd-wpL0W01F-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.595;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c8slE1L9noB9dwJdRd24-73" target="c8slE1L9noB9dwJdRd24-44" edge="1">
