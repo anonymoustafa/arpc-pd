@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T09:53:18.213Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zR1iAhJYsA5vfd88g0qS" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T09:55:49.993Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="v7nA4cQrIqU9qWQZjRV9" version="22.0.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
     <mxGraphModel dx="2271" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -923,7 +923,7 @@
         <mxCell id="FOJXVEFLyjvhEC3KytMH-69" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;startArrow=classic;startFill=1;endFill=0;" parent="1" source="22tc-IZOeCEdjyxs1V_F-8" target="22tc-IZOeCEdjyxs1V_F-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FOJXVEFLyjvhEC3KytMH-71" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;dashPattern=1 2;strokeWidth=4;arcSize=5;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="FOJXVEFLyjvhEC3KytMH-71" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;arcSize=5;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3190" y="3430" width="934" height="600" as="geometry" />
         </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-70" value="" style="html=1;strokeWidth=2;outlineConnect=0;dashed=0;align=center;fontSize=8;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.eip.message_filter;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
@@ -1084,7 +1084,7 @@
         <mxCell id="FOJXVEFLyjvhEC3KytMH-121" value="New suppliers would be added to the portal" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3219" y="4060.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FOJXVEFLyjvhEC3KytMH-123" value="SRM Web&amp;nbsp;Portal" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;align=center;fontStyle=1;fillColor=default;rounded=0;dashed=1;dashPattern=1 2;strokeWidth=4;arcSize=5;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="FOJXVEFLyjvhEC3KytMH-123" value="SRM Web&amp;nbsp;Portal" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;align=center;fontStyle=1;fillColor=default;rounded=0;dashed=1;strokeWidth=3;arcSize=5;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3457.75" y="3400" width="261.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-124" value="" style="triangle;html=1;whiteSpace=wrap;rotation=90;" parent="FOJXVEFLyjvhEC3KytMH-123" vertex="1">
