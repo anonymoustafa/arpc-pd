@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T09:55:58.330Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Sb__CYegYYpgV0-_ue34" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T09:57:10.591Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yLbotx0f5k5NwGe7B1fb" version="22.0.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="2271" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1215,9 +1215,6 @@
         <mxCell id="FOJXVEFLyjvhEC3KytMH-165" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Storage_Tasks.svg;" parent="1" vertex="1">
           <mxGeometry x="3494" y="3480" width="88" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="FOJXVEFLyjvhEC3KytMH-166" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.tasks;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="4024" y="3686" width="70" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FOJXVEFLyjvhEC3KytMH-158" target="FOJXVEFLyjvhEC3KytMH-164" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1233,14 +1230,14 @@
         <mxCell id="FOJXVEFLyjvhEC3KytMH-170" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="3734" y="3664" width="404.4" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FOJXVEFLyjvhEC3KytMH-171" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Winner Announcement&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The supplier would&amp;nbsp;&lt;br&gt;be notified if&lt;br&gt;they are the&lt;br&gt;tender winner&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="FOJXVEFLyjvhEC3KytMH-170" vertex="1">
-          <mxGeometry x="19.410382720727547" width="184.39863584691167" height="159.99999999999994" as="geometry" />
-        </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-172" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#82b366;fillColor=#d5e8d4;shape=mxgraph.azure.notification_topic;" parent="FOJXVEFLyjvhEC3KytMH-170" vertex="1">
-          <mxGeometry x="-21.45358090185676" width="48.525956801818865" height="49.68944099378881" as="geometry" />
+          <mxGeometry x="11.55" y="-26" width="41.45" height="49.69" as="geometry" />
         </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-173" value="" style="shadow=0;dashed=0;html=1;strokeColor=#36393d;fillColor=#cdeb8b;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.company_owner;" parent="FOJXVEFLyjvhEC3KytMH-170" vertex="1">
-          <mxGeometry x="40" y="49.69" width="67.7" height="80.31" as="geometry" />
+          <mxGeometry x="46" y="16" width="67.7" height="80.31" as="geometry" />
+        </mxCell>
+        <mxCell id="FOJXVEFLyjvhEC3KytMH-166" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.tasks;fontColor=#ffffff;" parent="FOJXVEFLyjvhEC3KytMH-170" vertex="1">
+          <mxGeometry x="290" y="-34" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FOJXVEFLyjvhEC3KytMH-175" target="FOJXVEFLyjvhEC3KytMH-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1497,6 +1494,9 @@
             <mxPoint x="3360" y="4165" as="sourcePoint" />
             <mxPoint x="3403" y="4140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FOJXVEFLyjvhEC3KytMH-171" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Winner Announcement&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The supplier would&amp;nbsp;&lt;br&gt;be notified if&lt;br&gt;they are the&lt;br&gt;tender winner&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=right;" parent="1" vertex="1">
+          <mxGeometry x="3745.8003827207276" y="3600" width="184.39863584691167" height="159.99999999999994" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
