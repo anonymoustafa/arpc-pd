@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T09:50:16.969Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SSTjhOKej2SPbfcpL9gl" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T09:51:27.026Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4oDvOMHfuX1ggCMMmQZk" version="22.0.4" type="github">
   <diagram name="Page-1" id="2KHofViqdArEMS4rhggh">
-    <mxGraphModel dx="2082" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1950" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1162,6 +1162,14 @@
         <mxCell id="FOJXVEFLyjvhEC3KytMH-144" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Technical&lt;br&gt;Correspondence&lt;/span&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.servo;fillColor=#5294CF;gradientColor=none;" parent="FOJXVEFLyjvhEC3KytMH-141" vertex="1">
           <mxGeometry x="350" y="2.2737367544323206e-13" width="84" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WFN3bZN3C_MySQm3YKrh-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOJXVEFLyjvhEC3KytMH-146" target="FOJXVEFLyjvhEC3KytMH-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3160" y="3875" />
+              <mxPoint x="3160" y="3755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-146" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3130" y="3790" width="20" height="170" as="geometry" />
         </mxCell>
@@ -1367,13 +1375,7 @@
         <mxCell id="FOJXVEFLyjvhEC3KytMH-206" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Iranian Manufacturing / &lt;br&gt;Self mitigating strategy&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Helvetica;fontColor=default;" parent="FOJXVEFLyjvhEC3KytMH-207" vertex="1">
           <mxGeometry width="160" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="FOJXVEFLyjvhEC3KytMH-208" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="FOJXVEFLyjvhEC3KytMH-195" target="FOJXVEFLyjvhEC3KytMH-202" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-209" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="FOJXVEFLyjvhEC3KytMH-97" target="FOJXVEFLyjvhEC3KytMH-195" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FOJXVEFLyjvhEC3KytMH-215" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="FOJXVEFLyjvhEC3KytMH-146" target="FOJXVEFLyjvhEC3KytMH-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FOJXVEFLyjvhEC3KytMH-216" value="Purchase procedure start point" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
@@ -1492,6 +1494,9 @@
             <mxPoint x="29" y="20" as="sourcePoint" />
             <mxPoint x="32" y="-30" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WFN3bZN3C_MySQm3YKrh-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOJXVEFLyjvhEC3KytMH-206" target="FOJXVEFLyjvhEC3KytMH-203">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
