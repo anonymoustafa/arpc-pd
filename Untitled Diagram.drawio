@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T10:33:13.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="-BmiEpDTUS6v2KGseeCw" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T10:35:26.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="HuignuOGlsIdGx5x1YHs" version="24.6.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1122" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,18 @@
           <mxGeometry x="-0.0103" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qrnM_26eQoAFYajClJYY-36" value="SALES ON A GLANCE" style="swimlane;childLayout=stackLayout;horizontal=1;fillColor=#CCCCCC;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;strokeColor=#666666;stackBorder=10;stackSpacing=-12;resizable=1;align=center;points=[];whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#333333;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-200" width="460" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qrnM_26eQoAFYajClJYY-37" value="INPUT PRICE&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;shadow=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="qrnM_26eQoAFYajClJYY-36">
+          <mxGeometry x="10" y="33" width="170" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="qrnM_26eQoAFYajClJYY-38" value="PROFORMA&lt;div&gt;ISSUANCE&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeColor=#6c8ebf;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="qrnM_26eQoAFYajClJYY-36">
+          <mxGeometry x="168" y="33" width="148" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="qrnM_26eQoAFYajClJYY-39" value="CHECKOUT" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeColor=#82b366;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontStyle=1;labelBackgroundColor=none;fillColor=#d5e8d4;" vertex="1" parent="qrnM_26eQoAFYajClJYY-36">
+          <mxGeometry x="304" y="33" width="146" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
