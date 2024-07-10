@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T10:42:22.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="g0oy_uSLxfhH2HZdSeN4" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T10:46:11.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AbvPtk7lfYC8hf4gEzn9" version="24.6.4" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1522" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -101,6 +101,12 @@
         </mxCell>
         <mxCell id="qrnM_26eQoAFYajClJYY-44" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.sales;" vertex="1" parent="1">
           <mxGeometry x="740" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qrnM_26eQoAFYajClJYY-48" value="" style="shape=mxgraph.signs.travel.information_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="440" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="qrnM_26eQoAFYajClJYY-49" value="!" style="triangle;whiteSpace=wrap;html=1;rotation=-90;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="610" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
